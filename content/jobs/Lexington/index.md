@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://starry.com/'
+date: '2019-08-27'
+title: 'Student'
+company: 'Lexington High School'
+location: 'Lexington, MA'
+range: 'Aug 2019 - Present'
+url: 'https://lhs.lexingtonma.org/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS

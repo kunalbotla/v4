@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+date: '2019-06-07'
+title: 'Elementary & Middle School Student'
+company: 'Acera School'
 location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://us.mullenlowe.com/'
+range: 'Sept 2013 - June 2019'
+url: 'https://aceraschool.org'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-05-15'
+title: 'Founder & Director'
+company: 'Project Boom'
+location: 'Massachusetts, United States'
+range: 'May 2020 - Present'
+url: 'https://projectboom.org'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

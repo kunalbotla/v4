@@ -1,7 +1,7 @@
 ---
-date: '2017-12-21'
+date: '2019-01-01'
 title: 'UI Engineer Co-op'
-company: 'Apple'
+company: 'Extracurriculars'
 location: 'Cupertino, CA'
 range: 'July - Dec 2017'
 url: 'https://www.apple.com/music/'
