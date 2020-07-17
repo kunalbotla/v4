@@ -1,5 +1,5 @@
 ---
-date: '2020-05-15'
+date: '1'
 title: 'Founder & Director'
 company: 'Project Boom'
 location: 'Massachusetts, United States'

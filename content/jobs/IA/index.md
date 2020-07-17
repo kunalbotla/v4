@@ -1,10 +1,10 @@
 ---
-date: '4'
-title: 'Elementary & Middle School Student'
-company: 'Acera School'
-location: 'Winchester, Massachusetts'
+date: '3'
+title: 'Intern'
+company: 'Infinite Analytics'
+location: 'Cambridge, Massachusetts'
 range: 'Sept 2013 - June 2019'
-url: 'https://aceraschool.org'
+url: 'https://infiniteanalytics.com'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

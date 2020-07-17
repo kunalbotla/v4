@@ -1,5 +1,5 @@
 ---
-date: '2019-08-27'
+date: '2'
 title: 'Student'
 company: 'Lexington High School'
 location: 'Lexington, MA'
